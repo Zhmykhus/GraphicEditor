@@ -5,8 +5,41 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:graphic_editor"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
-    <Grid>
+        Title="Графический редактор" Height="450" Width="800">
+    
+        <DockPanel>
+            <!-- Панель инструментов -->
+            <ToolBar DockPanel.Dock="Top">
+                <ComboBox x:Name="ToolComboBox" Width="100" SelectionChanged="ToolComboBox_SelectionChanged">
+                    <ComboBoxItem Content="Pencil"/>
+                    <ComboBoxItem Content="Brush"/>
+                    <ComboBoxItem Content="Text"/>
+                    <ComboBoxItem Content="Image"/>
+                </ComboBox>
 
-    </Grid>
+                <ComboBox x:Name="ColorComboBox" Width="80" SelectionChanged="ColorComboBox_SelectionChanged">
+                    <ComboBoxItem Background="Pink" Content="Pink"/>
+                    <ComboBoxItem Background="Red" Content="Red"/>
+                    <ComboBoxItem Background="Blue" Content="Blue"/>
+                    <ComboBoxItem Background="Green" Content="Green"/>
+                </ComboBox>
+
+                <ComboBox x:Name="SizeComboBox" Width="60" SelectionChanged="SizeComboBox_SelectionChanged">
+                    <ComboBoxItem Content="1"/>
+                    <ComboBoxItem Content="3"/>
+                    <ComboBoxItem Content="5"/>
+                    <ComboBoxItem Content="10"/>
+                </ComboBox>
+
+                <Button Content="Undo" Click="UndoButton_Click"/>
+                <Button Content="Redo" Click="RedoButton_Click"/>
+            </ToolBar>
+
+            <!-- Холст для рисования -->
+            <Canvas x:Name="DrawingCanvas" Background="White"
+                MouseDown="DrawingCanvas_MouseDown"
+                MouseMove="DrawingCanvas_MouseMove"
+                MouseUp="DrawingCanvas_MouseUp"/>
+        </DockPanel>
+    
 </Window>

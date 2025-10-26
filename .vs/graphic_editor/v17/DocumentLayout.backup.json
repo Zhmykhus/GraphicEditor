@@ -3,12 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\graphic_editor\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7B7FE8D0-4123-479F-9FC1-33F700E2021C}|graphic_editor\\graphic_editor.csproj|c:\\users\\user\\source\\repos\\graphic_editor\\graphic_editor\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{7B7FE8D0-4123-479F-9FC1-33F700E2021C}|graphic_editor\\graphic_editor.csproj|solutionrelative:graphic_editor\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{7B7FE8D0-4123-479F-9FC1-33F700E2021C}|graphic_editor\\graphic_editor.csproj|c:\\users\\user\\source\\repos\\graphic_editor\\graphic_editor\\graphic_editor.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7B7FE8D0-4123-479F-9FC1-33F700E2021C}|graphic_editor\\graphic_editor.csproj|solutionrelative:graphic_editor\\graphic_editor.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B7FE8D0-4123-479F-9FC1-33F700E2021C}|graphic_editor\\graphic_editor.csproj|c:\\users\\user\\source\\repos\\graphic_editor\\graphic_editor\\interfaces\\icommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B7FE8D0-4123-479F-9FC1-33F700E2021C}|graphic_editor\\graphic_editor.csproj|solutionrelative:graphic_editor\\interfaces\\icommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B7FE8D0-4123-479F-9FC1-33F700E2021C}|graphic_editor\\graphic_editor.csproj|c:\\users\\user\\source\\repos\\graphic_editor\\graphic_editor\\logic\\drawcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B7FE8D0-4123-479F-9FC1-33F700E2021C}|graphic_editor\\graphic_editor.csproj|solutionrelative:graphic_editor\\logic\\drawcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B7FE8D0-4123-479F-9FC1-33F700E2021C}|graphic_editor\\graphic_editor.csproj|c:\\users\\user\\source\\repos\\graphic_editor\\graphic_editor\\logic\\textcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B7FE8D0-4123-479F-9FC1-33F700E2021C}|graphic_editor\\graphic_editor.csproj|solutionrelative:graphic_editor\\logic\\textcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7B7FE8D0-4123-479F-9FC1-33F700E2021C}|graphic_editor\\graphic_editor.csproj|c:\\users\\user\\source\\repos\\graphic_editor\\graphic_editor\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7B7FE8D0-4123-479F-9FC1-33F700E2021C}|graphic_editor\\graphic_editor.csproj|solutionrelative:graphic_editor\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B7FE8D0-4123-479F-9FC1-33F700E2021C}|graphic_editor\\graphic_editor.csproj|c:\\users\\user\\source\\repos\\graphic_editor\\graphic_editor\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7B7FE8D0-4123-479F-9FC1-33F700E2021C}|graphic_editor\\graphic_editor.csproj|solutionrelative:graphic_editor\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,8 +34,60 @@
       "DocumentGroups": [
         {
           "DockedWidth": 282,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TextCommand.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\graphic_editor\\graphic_editor\\Logic\\TextCommand.cs",
+              "RelativeDocumentMoniker": "graphic_editor\\Logic\\TextCommand.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\graphic_editor\\graphic_editor\\Logic\\TextCommand.cs",
+              "RelativeToolTip": "graphic_editor\\Logic\\TextCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T14:02:05.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DrawCommand.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\graphic_editor\\graphic_editor\\Logic\\DrawCommand.cs",
+              "RelativeDocumentMoniker": "graphic_editor\\Logic\\DrawCommand.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\graphic_editor\\graphic_editor\\Logic\\DrawCommand.cs",
+              "RelativeToolTip": "graphic_editor\\Logic\\DrawCommand.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwAsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T13:59:54.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ICommand.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\graphic_editor\\graphic_editor\\Interfaces\\ICommand.cs",
+              "RelativeDocumentMoniker": "graphic_editor\\Interfaces\\ICommand.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\graphic_editor\\graphic_editor\\Interfaces\\ICommand.cs",
+              "RelativeToolTip": "graphic_editor\\Interfaces\\ICommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T13:59:05.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "graphic_editor",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\graphic_editor\\graphic_editor\\graphic_editor.csproj",
+              "RelativeDocumentMoniker": "graphic_editor\\graphic_editor.csproj",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\graphic_editor\\graphic_editor\\graphic_editor.csproj",
+              "RelativeToolTip": "graphic_editor\\graphic_editor.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-26T13:58:33.193Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
@@ -49,8 +117,12 @@
               "Name": "ST:3:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\graphic_editor\\graphic_editor\\MainWindow.xaml",
               "RelativeDocumentMoniker": "graphic_editor\\MainWindow.xaml",
@@ -62,20 +134,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\graphic_editor\\graphic_editor\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "graphic_editor\\MainWindow.xaml.cs",
               "ToolTip": "C:\\Users\\User\\source\\repos\\graphic_editor\\graphic_editor\\MainWindow.xaml.cs",
               "RelativeToolTip": "graphic_editor\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACIAAAAAAAAAAIAwwCUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-26T06:09:23.881Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         },
