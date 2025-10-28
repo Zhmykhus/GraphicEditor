@@ -1,10 +1,12 @@
 ﻿using graphic_editor.Interfaces;
 using System;
 using System.Collections.Generic;
+using System.Drawing;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Controls;
+using System.Windows.Media;
 
 namespace graphic_editor.Logic
 {
@@ -12,29 +14,23 @@ namespace graphic_editor.Logic
     {
         private Canvas _canvas;
         private TextBox _textBox;
-        private bool _isExecuted = false;
 
-        public TextCommand(Canvas canvas, TextBox textBox)
+        public TextCommand(Canvas canvas, Point position, string text, Brush color, double fontSize)
         {
             _canvas = canvas;
-            _textBox = textBox;
-        }
-        public void Execute()
-        {
-            if (!_isExecuted)
+            _textBox = new TextBox
             {
-                _canvas.Children.Add(_textBox);
-                _isExecuted = true;
-            }
+                Text = text,
+                Foreground = color,
+                Width = 200,
+                Height = 30,
+                FontSize = fontSize
+            };
+            Canvas.SetLeft(_textBox, position.X);
+            Canvas.SetTop(_textBox, position.Y);
         }
 
-        public void Undo()
-        {
-            if (_isExecuted)
-            {
-                _canvas.Children.Remove(_textBox);
-                _isExecuted = false;
-            }
-        }
+        public void Execute() => _canvas.Children.Add(_textBox);
+        public void Undo() => _canvas.Children.Remove(_textBox);
     }
 }
