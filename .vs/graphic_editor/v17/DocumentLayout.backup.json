@@ -3,28 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\graphic_editor\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7B7FE8D0-4123-479F-9FC1-33F700E2021C}|graphic_editor\\graphic_editor.csproj|c:\\users\\user\\source\\repos\\graphic_editor\\graphic_editor\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7B7FE8D0-4123-479F-9FC1-33F700E2021C}|graphic_editor\\graphic_editor.csproj|solutionrelative:graphic_editor\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7B7FE8D0-4123-479F-9FC1-33F700E2021C}|graphic_editor\\graphic_editor.csproj|c:\\users\\user\\source\\repos\\graphic_editor\\graphic_editor\\logic\\changecolorcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7B7FE8D0-4123-479F-9FC1-33F700E2021C}|graphic_editor\\graphic_editor.csproj|solutionrelative:graphic_editor\\logic\\changecolorcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7B7FE8D0-4123-479F-9FC1-33F700E2021C}|graphic_editor\\graphic_editor.csproj|c:\\users\\user\\source\\repos\\graphic_editor\\graphic_editor\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{7B7FE8D0-4123-479F-9FC1-33F700E2021C}|graphic_editor\\graphic_editor.csproj|solutionrelative:graphic_editor\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7B7FE8D0-4123-479F-9FC1-33F700E2021C}|graphic_editor\\graphic_editor.csproj|c:\\users\\user\\source\\repos\\graphic_editor\\graphic_editor\\logic\\changebrushsizecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7B7FE8D0-4123-479F-9FC1-33F700E2021C}|graphic_editor\\graphic_editor.csproj|solutionrelative:graphic_editor\\logic\\changebrushsizecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7B7FE8D0-4123-479F-9FC1-33F700E2021C}|graphic_editor\\graphic_editor.csproj|c:\\users\\user\\source\\repos\\graphic_editor\\graphic_editor\\helpers\\brushsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7B7FE8D0-4123-479F-9FC1-33F700E2021C}|graphic_editor\\graphic_editor.csproj|solutionrelative:graphic_editor\\helpers\\brushsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7B7FE8D0-4123-479F-9FC1-33F700E2021C}|graphic_editor\\graphic_editor.csproj|c:\\users\\user\\source\\repos\\graphic_editor\\graphic_editor\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B7FE8D0-4123-479F-9FC1-33F700E2021C}|graphic_editor\\graphic_editor.csproj|solutionrelative:graphic_editor\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7B7FE8D0-4123-479F-9FC1-33F700E2021C}|graphic_editor\\graphic_editor.csproj|c:\\users\\user\\source\\repos\\graphic_editor\\graphic_editor\\logic\\textcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7B7FE8D0-4123-479F-9FC1-33F700E2021C}|graphic_editor\\graphic_editor.csproj|solutionrelative:graphic_editor\\logic\\textcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B7FE8D0-4123-479F-9FC1-33F700E2021C}|graphic_editor\\graphic_editor.csproj|c:\\users\\user\\source\\repos\\graphic_editor\\graphic_editor\\logic\\moveelementcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B7FE8D0-4123-479F-9FC1-33F700E2021C}|graphic_editor\\graphic_editor.csproj|solutionrelative:graphic_editor\\logic\\moveelementcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7B7FE8D0-4123-479F-9FC1-33F700E2021C}|graphic_editor\\graphic_editor.csproj|c:\\users\\user\\source\\repos\\graphic_editor\\graphic_editor\\logic\\drawcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -35,12 +27,32 @@
       "RelativeMoniker": "D:0:0:{7B7FE8D0-4123-479F-9FC1-33F700E2021C}|graphic_editor\\graphic_editor.csproj|solutionrelative:graphic_editor\\logic\\commandmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7B7FE8D0-4123-479F-9FC1-33F700E2021C}|graphic_editor\\graphic_editor.csproj|c:\\users\\user\\source\\repos\\graphic_editor\\graphic_editor\\graphic_editor.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{7B7FE8D0-4123-479F-9FC1-33F700E2021C}|graphic_editor\\graphic_editor.csproj|solutionrelative:graphic_editor\\graphic_editor.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{7B7FE8D0-4123-479F-9FC1-33F700E2021C}|graphic_editor\\graphic_editor.csproj|c:\\users\\user\\source\\repos\\graphic_editor\\graphic_editor\\logic\\changecolorcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B7FE8D0-4123-479F-9FC1-33F700E2021C}|graphic_editor\\graphic_editor.csproj|solutionrelative:graphic_editor\\logic\\changecolorcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B7FE8D0-4123-479F-9FC1-33F700E2021C}|graphic_editor\\graphic_editor.csproj|c:\\users\\user\\source\\repos\\graphic_editor\\graphic_editor\\logic\\changebrushsizecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B7FE8D0-4123-479F-9FC1-33F700E2021C}|graphic_editor\\graphic_editor.csproj|solutionrelative:graphic_editor\\logic\\changebrushsizecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B7FE8D0-4123-479F-9FC1-33F700E2021C}|graphic_editor\\graphic_editor.csproj|c:\\users\\user\\source\\repos\\graphic_editor\\graphic_editor\\logic\\addimagecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B7FE8D0-4123-479F-9FC1-33F700E2021C}|graphic_editor\\graphic_editor.csproj|solutionrelative:graphic_editor\\logic\\addimagecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B7FE8D0-4123-479F-9FC1-33F700E2021C}|graphic_editor\\graphic_editor.csproj|c:\\users\\user\\source\\repos\\graphic_editor\\graphic_editor\\helpers\\movemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B7FE8D0-4123-479F-9FC1-33F700E2021C}|graphic_editor\\graphic_editor.csproj|solutionrelative:graphic_editor\\helpers\\movemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B7FE8D0-4123-479F-9FC1-33F700E2021C}|graphic_editor\\graphic_editor.csproj|c:\\users\\user\\source\\repos\\graphic_editor\\graphic_editor\\helpers\\brushsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B7FE8D0-4123-479F-9FC1-33F700E2021C}|graphic_editor\\graphic_editor.csproj|solutionrelative:graphic_editor\\helpers\\brushsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7B7FE8D0-4123-479F-9FC1-33F700E2021C}|graphic_editor\\graphic_editor.csproj|c:\\users\\user\\source\\repos\\graphic_editor\\graphic_editor\\interfaces\\icommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7B7FE8D0-4123-479F-9FC1-33F700E2021C}|graphic_editor\\graphic_editor.csproj|solutionrelative:graphic_editor\\interfaces\\icommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B7FE8D0-4123-479F-9FC1-33F700E2021C}|graphic_editor\\graphic_editor.csproj|c:\\users\\user\\source\\repos\\graphic_editor\\graphic_editor\\graphic_editor.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7B7FE8D0-4123-479F-9FC1-33F700E2021C}|graphic_editor\\graphic_editor.csproj|solutionrelative:graphic_editor\\graphic_editor.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,7 +62,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 282,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 20,
           "Children": [
             {
               "$type": "Bookmark",
@@ -86,46 +98,84 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 9,
+              "Title": "MoveManager.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\graphic_editor\\graphic_editor\\Helpers\\MoveManager.cs",
+              "RelativeDocumentMoniker": "graphic_editor\\Helpers\\MoveManager.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\graphic_editor\\graphic_editor\\Helpers\\MoveManager.cs",
+              "RelativeToolTip": "graphic_editor\\Helpers\\MoveManager.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAcwBcAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T01:15:35.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AddImageCommand.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\graphic_editor\\graphic_editor\\Logic\\AddImageCommand.cs",
+              "RelativeDocumentMoniker": "graphic_editor\\Logic\\AddImageCommand.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\graphic_editor\\graphic_editor\\Logic\\AddImageCommand.cs",
+              "RelativeToolTip": "graphic_editor\\Logic\\AddImageCommand.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAkwAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T01:29:36.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MoveElementCommand.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\graphic_editor\\graphic_editor\\Logic\\MoveElementCommand.cs",
+              "RelativeDocumentMoniker": "graphic_editor\\Logic\\MoveElementCommand.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\graphic_editor\\graphic_editor\\Logic\\MoveElementCommand.cs",
+              "RelativeToolTip": "graphic_editor\\Logic\\MoveElementCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T01:14:09.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\graphic_editor\\graphic_editor\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "graphic_editor\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\graphic_editor\\graphic_editor\\MainWindow.xaml.cs*",
-              "RelativeToolTip": "graphic_editor\\MainWindow.xaml.cs*",
-              "ViewState": "AgIAAEcAAAAAAAAAAAAMwFcAAAB9AAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\graphic_editor\\graphic_editor\\MainWindow.xaml.cs",
+              "RelativeToolTip": "graphic_editor\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAMsAAAAAAAAAAAAuwOEAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-28T02:32:36.024Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "ChangeBrushSizeCommand.cs",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\graphic_editor\\graphic_editor\\Logic\\ChangeBrushSizeCommand.cs",
               "RelativeDocumentMoniker": "graphic_editor\\Logic\\ChangeBrushSizeCommand.cs",
               "ToolTip": "C:\\Users\\User\\source\\repos\\graphic_editor\\graphic_editor\\Logic\\ChangeBrushSizeCommand.cs",
               "RelativeToolTip": "graphic_editor\\Logic\\ChangeBrushSizeCommand.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAuwBAAAABWAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAuwA8AAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-28T02:20:12.043Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "ChangeColorCommand.cs",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\graphic_editor\\graphic_editor\\Logic\\ChangeColorCommand.cs",
               "RelativeDocumentMoniker": "graphic_editor\\Logic\\ChangeColorCommand.cs",
               "ToolTip": "C:\\Users\\User\\source\\repos\\graphic_editor\\graphic_editor\\Logic\\ChangeColorCommand.cs",
               "RelativeToolTip": "graphic_editor\\Logic\\ChangeColorCommand.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAASwBEAAAAPAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAAASwBAAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-28T02:18:44.717Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 10,
               "Title": "BrushSettings.cs",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\graphic_editor\\graphic_editor\\Helpers\\BrushSettings.cs",
               "RelativeDocumentMoniker": "graphic_editor\\Helpers\\BrushSettings.cs",
@@ -133,49 +183,50 @@
               "RelativeToolTip": "graphic_editor\\Helpers\\BrushSettings.cs",
               "ViewState": "AgIAAAEAAAAAAAAAAAAcwAgAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-28T02:17:01.862Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-28T02:17:01.862Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 5,
               "Title": "CommandManager.cs",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\graphic_editor\\graphic_editor\\Logic\\CommandManager.cs",
               "RelativeDocumentMoniker": "graphic_editor\\Logic\\CommandManager.cs",
               "ToolTip": "C:\\Users\\User\\source\\repos\\graphic_editor\\graphic_editor\\Logic\\CommandManager.cs",
               "RelativeToolTip": "graphic_editor\\Logic\\CommandManager.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAwCsAAAA0AAAAAAAAAA==",
+              "ViewState": "AgIAACAAAAAAAAAAAAAgwBUAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-26T23:43:55.516Z"
+              "WhenOpened": "2025-10-26T23:43:55.516Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "TextCommand.cs",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\graphic_editor\\graphic_editor\\Logic\\TextCommand.cs",
               "RelativeDocumentMoniker": "graphic_editor\\Logic\\TextCommand.cs",
               "ToolTip": "C:\\Users\\User\\source\\repos\\graphic_editor\\graphic_editor\\Logic\\TextCommand.cs",
               "RelativeToolTip": "graphic_editor\\Logic\\TextCommand.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAAGgAAAAAAAAAAADwv2UAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-26T14:02:05.229Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
               "Title": "DrawCommand.cs",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\graphic_editor\\graphic_editor\\Logic\\DrawCommand.cs",
               "RelativeDocumentMoniker": "graphic_editor\\Logic\\DrawCommand.cs",
               "ToolTip": "C:\\Users\\User\\source\\repos\\graphic_editor\\graphic_editor\\Logic\\DrawCommand.cs",
               "RelativeToolTip": "graphic_editor\\Logic\\DrawCommand.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAUwBEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABQAAAAAAAAAAAAiwBEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-26T13:59:54.773Z"
+              "WhenOpened": "2025-10-26T13:59:54.773Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "ICommand.cs",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\graphic_editor\\graphic_editor\\Interfaces\\ICommand.cs",
               "RelativeDocumentMoniker": "graphic_editor\\Interfaces\\ICommand.cs",
@@ -187,7 +238,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 12,
               "Title": "graphic_editor.csproj",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\graphic_editor\\graphic_editor\\graphic_editor.csproj",
               "RelativeDocumentMoniker": "graphic_editor\\graphic_editor.csproj",
@@ -199,7 +250,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\graphic_editor\\graphic_editor\\MainWindow.xaml",
               "RelativeDocumentMoniker": "graphic_editor\\MainWindow.xaml",

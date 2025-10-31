@@ -13,7 +13,6 @@ namespace graphic_editor.Logic
         private double _newSize;
         private Action<double> _setSizeAction;
 
-        // SRP: отвечает только за изменение размера
         public ChangeBrushSizeCommand(double newSize, double oldSize, Action<double> setSizeAction)
         {
             _newSize = newSize;

@@ -14,7 +14,6 @@ namespace graphic_editor.Logic
         private Brush _newColor;
         private Action<Brush> _setColorAction;
 
-        // SRP: отвечает только за изменение цвета
         public ChangeColorCommand(Brush newColor, Brush oldColor, Action<Brush> setColorAction)
         {
             _newColor = newColor;

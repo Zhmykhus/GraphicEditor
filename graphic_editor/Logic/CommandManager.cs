@@ -12,7 +12,6 @@ namespace graphic_editor.Logic
         private Stack<ICommand> _undoStack = new Stack<ICommand>();
         private Stack<ICommand> _redoStack = new Stack<ICommand>();
 
-        // SRP: управление командами
         public void ExecuteCommand(ICommand command)
         {
             command.Execute();
@@ -20,7 +19,6 @@ namespace graphic_editor.Logic
             _redoStack.Clear();
         }
 
-        // OCP: эти методы не меняются при добавлении новых команд
         public void Undo()
         {
             if (_undoStack.Count > 0)

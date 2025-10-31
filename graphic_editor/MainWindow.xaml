@@ -1,4 +1,4 @@
-﻿<Window x:Class="graphic_editor.MainWindow"
+﻿ <Window x:Class="graphic_editor.MainWindow"
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
@@ -15,12 +15,22 @@
 
         <!-- Панель инструментов -->
         <ToolBar Grid.Row="0" Background="LightGray">
+            <Button x:Name="ToggleModeButton" Content="🔄 Switch Mode" 
+                    Click="ToggleModeButton_Click" Margin="2"
+                    ToolTip="Toggle between Draw and Move modes"/>
+            <TextBlock x:Name="ModeIndicatorText" Text="📝 DRAW Mode" 
+                      FontWeight="Bold" Margin="10,0" VerticalAlignment="Center"
+                      Foreground="DarkBlue"/>
             <TextBlock Text="Tools:" FontWeight="Bold" Margin="5,0"/>
 
             <!-- Кнопки действий -->
             <Button x:Name="AddTextButton" Content="📝 Add Text" 
                     Click="AddTextButton_Click" Margin="2"/>
-
+            
+            <Button x:Name="AddImageButton" Content="🖼️ Add Image" 
+            Click="AddImageButton_Click" Margin="2"
+            ToolTip="Add image to canvas"/>
+            
             <!-- Undo/Redo -->
             <Separator/>
             <Button x:Name="UndoButton" Content="↩️ Undo" Click="UndoButton_Click"
@@ -69,6 +79,7 @@
             <Canvas x:Name="DrawingCanvas" Background="White"
                     MouseDown="Canvas_MouseDown"
                     MouseUp="Canvas_MouseUp"
+                    MouseMove="Canvas_MouseMove"
                     Cursor="Cross"/>
         </Border>
     </Grid>
